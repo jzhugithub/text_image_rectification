@@ -229,3 +229,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.tags
+*.tags_sorted_by_file
+*.JPG
+*.vcxproj
+*.filters
+*.sln
